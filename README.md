@@ -1,6 +1,6 @@
 # MODULO1
 ##Sesiones
-1. Sesion 01: Fundamentos de Android
+1. Sesion 01: Fundamentos de Android/n
      Durante la sesión aprendí son los antecedentes de Android el cual es un sistema operativo para móviles que fue diseñado por Google y es Open Source, además de la evolución de los teléfonos celulares, los antecedentes de Java y sus aplicaciones realizadas con este lenguaje.
 Además, a utilizar la herramienta Figma en donde realice un diseño de una aplicación.  
 
