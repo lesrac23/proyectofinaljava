@@ -13,4 +13,4 @@
 9. Activity
 
 Enlaces:
-[Sesion 01](/proyectofinaljava/app)&nbsp;Text
+[Sesion 01](proyectofinaljava/app/)&nbsp;Text
