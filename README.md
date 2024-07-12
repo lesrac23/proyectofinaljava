@@ -30,6 +30,10 @@ Aprendi cuales son los pilares del pensamiento lógico que son:
 8. Activity<br>
     Aprendi a crear un Activity básico.
 
-   
-Enlaces:
-[Sesion 01](app)&nbsp;Text
+![](https://github.com/lesrac23/proyectofinaljava/blob/gh-pages/codigo1Activity.png)
+![](https://github.com/lesrac23/proyectofinaljava/blob/gh-pages/codigo2Activity.png)
+![](https://github.com/lesrac23/proyectofinaljava/blob/gh-pages/codigo3Activity.png)<br>
+![](https://github.com/lesrac23/proyectofinaljava/blob/gh-pages/ImagenActivity2.png)<br>
+
+## Enlace
+[Sesion 01](app)&nbsp;
